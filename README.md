@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad Khan</h1>
-<h3 align="center">A passionate Full Stack Developer with 14+ Years of Experience</h3>
+<h3 align="center">A passionate Full Stack Developer with 15+ Years of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan01&label=Profile%20views&color=0e75b6&style=flat" alt="khan01" /> </p>
 
@@ -17,6 +17,15 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Schedule a consultation to discuss your project needs</b>
+</p>
+
+<p align="center">
+  <a href="https://calendar.app.google/Uw3zQEQqGyfkhAhr5">
+    <img src="https://img.shields.io/badge/📅_Schedule_Meeting-Book_Now-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book Meeting"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
