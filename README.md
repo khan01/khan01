@@ -9,6 +9,13 @@
 
 - 💬 Contact me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM, Custom Business Applications** Projects. 
 
+## 📅 Book a Meeting
+
+<p align="center">
+  <a href="https://devdiligent.com">
+    <img src="https://devdiligent.com/assets/img/logo.png" alt="DevDiligent" width="200"/>
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
